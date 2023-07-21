@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9200BF462A6AAE050095D2BC /* PieShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9200BF452A6AAE040095D2BC /* PieShapeView.swift */; };
+		929993D52A601B9700EB05BA /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 929993D42A601B9700EB05BA /* AspectVGrid.swift */; };
 		92BDBA182A0AF43600AF242D /* StanfordMemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92BDBA172A0AF43600AF242D /* StanfordMemorizeApp.swift */; };
 		92BDBA1A2A0AF43600AF242D /* EmojiMemoryGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92BDBA192A0AF43600AF242D /* EmojiMemoryGameView.swift */; };
 		92BDBA1C2A0AF43F00AF242D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92BDBA1B2A0AF43F00AF242D /* Assets.xcassets */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9200BF452A6AAE040095D2BC /* PieShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieShapeView.swift; sourceTree = "<group>"; };
+		929993D42A601B9700EB05BA /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
 		92BDBA142A0AF43600AF242D /* StanfordMemorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StanfordMemorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92BDBA172A0AF43600AF242D /* StanfordMemorizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StanfordMemorizeApp.swift; sourceTree = "<group>"; };
 		92BDBA192A0AF43600AF242D /* EmojiMemoryGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGameView.swift; sourceTree = "<group>"; };
@@ -102,6 +106,8 @@
 				92BDBA192A0AF43600AF242D /* EmojiMemoryGameView.swift */,
 				92BDBA412A181E8300AF242D /* MemoryGameModel.swift */,
 				92BDBA432A1820F900AF242D /* MemoryGameViewModel.swift */,
+				929993D42A601B9700EB05BA /* AspectVGrid.swift */,
+				9200BF452A6AAE040095D2BC /* PieShapeView.swift */,
 				92BDBA1B2A0AF43F00AF242D /* Assets.xcassets */,
 				92BDBA1D2A0AF43F00AF242D /* Preview Content */,
 			);
@@ -266,7 +272,9 @@
 				92BDBA1A2A0AF43600AF242D /* EmojiMemoryGameView.swift in Sources */,
 				92BDBA182A0AF43600AF242D /* StanfordMemorizeApp.swift in Sources */,
 				92BDBA422A181E8400AF242D /* MemoryGameModel.swift in Sources */,
+				929993D52A601B9700EB05BA /* AspectVGrid.swift in Sources */,
 				92BDBA442A1820F900AF242D /* MemoryGameViewModel.swift in Sources */,
+				9200BF462A6AAE050095D2BC /* PieShapeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
